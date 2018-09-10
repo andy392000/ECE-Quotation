@@ -1,0 +1,21 @@
+Pro/ENGINEER is running with Unicode string encoding.
+DUMMY - pro_set_input_devices_allowed
+DUMMY - putxyres
+pglSetStatus: Pgl Session Initialize
+DUMMY - putxyres
+check_exec_file_accessible_():  D:\PTC\proeWildfire 5.0\\x86e_win64\obj\SWConvert.exe accessible (INFO MESSAGE)
+browser_get_type_sysdep:  type = 1 (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 40 commands (INFO MESSAGE)
+uit_get_visual_style_low:  Style is PTC Wildfire 5 (INFO MESSAGE)
+pfa_set_content_hints:  leaving config.his alone (INFO MESSAGE)
+uit_get_visual_style_low:  Style is PTC Wildfire 5 (INFO MESSAGE)
+pglSetStatus: PglWindowEndNoGraphics: Not in nographics mode.
+pro_locate_colormap ()
+located color definition D:\PTC\proeWildfire 5.0\graphic-library\appearances\appearance.dmt
+pro_locate_colormap ()
+located color definition D:\PTC\proeWildfire 5.0\graphic-library\appearances\global.dmt
+
+ run mode = 3
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+pglSetStatus: Pgl Session Terminate
